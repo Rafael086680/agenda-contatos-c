@@ -1,4 +1,4 @@
-#Agenda de Contatos em C ANSI | Contact Management System in ANSI C
+# Agenda de Contatos em C ANSI | Contact Management System in ANSI C
 
 | Português 🇧🇷                                                                                               | English 🇺🇸                                                                              |
 | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
@@ -6,7 +6,7 @@
 
 ---
 
-#Visão Geral | Overview
+# Visão Geral | Overview
 
 | Português 🇧🇷                                                                                                                                                                      | English 🇺🇸                                                                                                                                                                           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 
 ---
 
-#Funcionalidades | Features
+# Funcionalidades | Features
 
 | Português 🇧🇷       | English 🇺🇸      |
 | -------------------- | ----------------- |
@@ -27,7 +27,7 @@
 
 ---
 
-#Tecnologias Utilizadas | Technologies Used
+# Tecnologias Utilizadas | Technologies Used
 
 | Português 🇧🇷       | English 🇺🇸       |
 | -------------------- | ------------------ |
@@ -38,7 +38,7 @@
 
 ---
 
-#Estrutura do Projeto | Project Structure
+# Estrutura do Projeto | Project Structure
 
 ```txt id="3h0xg9"
 agenda-contatos-c/
@@ -60,7 +60,7 @@ agenda-contatos-c/
 
 ---
 
-#Arquitetura do Sistema | System Architecture
+# Arquitetura do Sistema | System Architecture
 
 | Português 🇧🇷                                                                                                  | English 🇺🇸                                                                                                |
 | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ agenda-contatos-c/
 
 ---
 
-#Estruturas de Dados | Data Structures
+# Estruturas de Dados | Data Structures
 
 ## Vetor de nomes | Names Array
 
@@ -177,7 +177,7 @@ char telefones[MAX_CONTATOS][TAM_TELEFONE];
 
 ---
 
-#Fluxo de Execução | Execution Flow
+# Fluxo de Execução | Execution Flow
 
 ```txt id="6z0hvw"
 Inicialização do programa
@@ -197,7 +197,7 @@ Encerramento do sistema
 
 ---
 
-#Complexidade | Complexity
+# Complexidade | Complexity
 
 | Operação | Complexidade |
 | -------- | ------------ |
@@ -208,7 +208,7 @@ Encerramento do sistema
 
 ---
 
-#Compilação | Compilation
+# Compilação | Compilation
 
 ## Linux / macOS
 
@@ -224,7 +224,7 @@ gcc src/agenda_contatos.c -o agenda.exe
 
 ---
 
-# ▶ Execução | Execution
+#  Execução | Execution
 
 ## Linux / macOS
 
@@ -240,7 +240,7 @@ agenda.exe
 
 ---
 
-#Screenshots
+# Screenshots
 
 ## Menu Principal | Main Menu
 
@@ -272,13 +272,13 @@ agenda.exe
 
 ---
 
-#Demonstração | Demonstration
+# Demonstração | Demonstration
 
 [Assistir Demonstração | Watch Demonstration](video/demonstracao.mp4)
 
 ---
 
-#Conceitos Aplicados | Applied Concepts
+# Conceitos Aplicados | Applied Concepts
 
 | Português 🇧🇷                | English 🇺🇸               |
 | ----------------------------- | -------------------------- |
@@ -292,7 +292,7 @@ agenda.exe
 
 ---
 
-#Melhorias Futuras | Future Improvements
+# Melhorias Futuras | Future Improvements
 
 | Português 🇧🇷           | English 🇺🇸            |
 | ------------------------ | ----------------------- |
@@ -305,13 +305,13 @@ agenda.exe
 
 ---
 
-#Autor | Author
+# Autor | Author
 
 Rafael Rodrigues
 
 ---
 
-#Disciplina | Course
+# Disciplina | Course
 
 Fundamentos de Programação | Fundamentals of Programming
 
