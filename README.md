@@ -50,9 +50,6 @@ agenda-contatos-c/
 │   ├── relatorio.docx
 │   └── screenshots/
 │
-├── exemplos/
-│   └── exemplo_execucao.txt
-│
 ├── video/
 │   └── demonstracao.mp4
 │
@@ -320,6 +317,6 @@ Fundamentos de Programação | Fundamentals of Programming
 
 ---
 
-# 📄 Licença | License
+#  Licença | License
 
 MIT License
