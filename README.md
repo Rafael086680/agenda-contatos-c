@@ -63,5 +63,5 @@ agenda.exe
 
 Clique no vídeo abaixo para assistir:
 
-[▶ Assistir demonstração](video/demonstracao.mp4)
+[Assistir demonstração](video/demonstracao.mp4)
 
