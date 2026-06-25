@@ -34,3 +34,34 @@ No Windows:
 ```bash
 agenda.exe
 ```
+
+## Screenshots
+
+### Menu Principal
+
+![Menu](docs/screenshots/menu.png)
+
+### Cadastro de Contato
+
+![Cadastro](docs/screenshots/cadastro.png)
+
+### Consulta de Contato
+
+![Consulta](docs/screenshots/consulta.png)
+
+### Exclusão de Contato
+
+![Exclusao](docs/screenshots/exclusao.png)
+
+### Lista de Contatos
+
+![Lista](docs/screenshots/lista.png)
+
+---
+
+## Demonstração em Vídeo
+
+Clique no vídeo abaixo para assistir:
+
+[▶ Assistir demonstração](video/demonstracao.mp4)
+
