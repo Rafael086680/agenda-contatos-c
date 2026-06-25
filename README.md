@@ -76,9 +76,6 @@ agenda-contatos-c/
 │       ├── exclusao.png
 │       └── lista.png
 │
-├── exemplos/
-│   └── exemplo_execucao.txt
-│
 ├── video/
 │   └── demonstracao.mp4
 │
