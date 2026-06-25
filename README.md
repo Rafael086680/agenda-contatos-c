@@ -15,7 +15,6 @@ agenda-contatos-c/
 ├── README.md
 ├── src/
 ├── docs/
-└── exemplos/
 
 ## Como compilar
 
